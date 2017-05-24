@@ -1,0 +1,1031 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="pusatsejahterawaniiazmi.com" resolutions="1x" timestamp="1495520968674">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="323885459" ref="bedah:rawatan:klinikal:ro:bilikrawatan:dialysis:about:ward:dental:services:bilikketuanurse:pejpentdbiran:groundfloor:bilikdr:farmasi:contact:directory:firstfloor:jasabudi:dressingroom:index:ibnusina:xray:lab:bilikmsyuarat:bilikaura,bilikberhntimerokok,kaunseling:vip:fisio"/>
+    <file name="bedah.css" crc="116454334" ref="bedah"/>
+    <file name="rawatan.css" crc="4089382741" ref="rawatan"/>
+    <file name="klinikal.css" crc="3951497848" ref="klinikal"/>
+    <file name="ro.css" crc="246292214" ref="ro"/>
+    <file name="bilikrawatan.css" crc="516252287" ref="bilikrawatan"/>
+    <file name="dialysis.css" crc="4064488857" ref="dialysis"/>
+    <file name="about.css" crc="4178453320" ref="about"/>
+    <file name="ward.css" crc="387809963" ref="ward"/>
+    <file name="dental.css" crc="3936384433" ref="dental"/>
+    <file name="services.css" crc="462984880" ref="services"/>
+    <file name="bilikketuanurse.css" crc="4074670888" ref="bilikketuanurse"/>
+    <file name="pejpentdbiran.css" crc="4069523807" ref="pejpentdbiran"/>
+    <file name="groundfloor.css" crc="285447680" ref="groundfloor"/>
+    <file name="bilikdr.css" crc="89881032" ref="bilikdr"/>
+    <file name="farmasi.css" crc="4208093347" ref="farmasi"/>
+    <file name="contact.css" crc="138806875" ref="contact"/>
+    <file name="directory.css" crc="3971933542" ref="directory"/>
+    <file name="firstfloor.css" crc="4174591016" ref="firstfloor"/>
+    <file name="jasabudi.css" crc="318601192" ref="jasabudi"/>
+    <file name="dressingroom.css" crc="3809576036" ref="dressingroom"/>
+    <file name="index.css" crc="3816375807" ref="index"/>
+    <file name="ibnusina.css" crc="4016361555" ref="ibnusina"/>
+    <file name="xray.css" crc="215766183" ref="xray"/>
+    <file name="lab.css" crc="3947922741" ref="lab"/>
+    <file name="bilikmsyuarat.css" crc="3833243076" ref="bilikmsyuarat"/>
+    <file name="bilikaura_bilikberhntimerokok_kaunseling.css" crc="3760191658" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="vip.css" crc="3760999399" ref="vip"/>
+    <file name="fisio.css" crc="110924554" ref="fisio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index:services:contact"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="require.js" crc="244322403" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="services"/>
+    <file name="form_check.php" crc="158155501" ref="contact"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact"/>
+    <file name="form_process.php" crc="4078697226" ref="contact"/>
+    <file name="form-u22239.php" crc="3939603718" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u1627-4.png" crc="4001399829" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="home.png" crc="411362950" seo="true" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="web_banner_minggu_kesihatan_2017.jpg" crc="3835891736" ref="index"/>
+    <file name="cemacs.jpg" crc="362171487" ref="index"/>
+    <file name="pulang_ubat.jpg" crc="87165556" ref="index"/>
+    <file name="sfth.jpg" crc="901268" ref="index"/>
+    <file name="u1634-4.png" crc="4001399829" ref="index"/>
+    <file name="untitled-10001.gif" crc="4278981458" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:services"/>
+    <file name="untitled-10002.gif" crc="3785195157" seo="true" ref="index"/>
+    <file name="untitled-10003.gif" crc="194233096" seo="true" ref="index"/>
+    <file name="untitled-10004.gif" crc="3858701309" seo="true" ref="index"/>
+    <file name="untitled-10005.gif" crc="4249658036" seo="true" ref="index"/>
+    <file name="untitled-10006.gif" crc="496890285" seo="true" ref="index"/>
+    <file name="untitled-10007.gif" crc="4265309872" seo="true" ref="index"/>
+    <file name="untitled-10008.gif" crc="4000709614" seo="true" ref="index"/>
+    <file name="untitled-10009.gif" crc="25517066" seo="true" ref="index"/>
+    <file name="untitled-10010.gif" crc="3768350076" seo="true" ref="index"/>
+    <file name="untitled-10011.gif" crc="441476244" seo="true" ref="index"/>
+    <file name="untitled-10012.gif" crc="4077388717" seo="true" ref="index"/>
+    <file name="untitled-10013.gif" crc="218630402" seo="true" ref="index"/>
+    <file name="untitled-10014.gif" crc="362031756" seo="true" ref="index"/>
+    <file name="untitled-10015.gif" crc="353080227" seo="true" ref="index"/>
+    <file name="untitled-10016.gif" crc="4176051137" seo="true" ref="index"/>
+    <file name="untitled-10017.gif" crc="274962631" seo="true" ref="index"/>
+    <file name="untitled-10018.gif" crc="163307448" seo="true" ref="index"/>
+    <file name="untitled-10019.gif" crc="4255545134" seo="true" ref="index"/>
+    <file name="untitled-10020.gif" crc="256053378" seo="true" ref="index"/>
+    <file name="untitled-10021.gif" crc="16903486" seo="true" ref="index"/>
+    <file name="untitled-10022.gif" crc="4039287723" seo="true" ref="index"/>
+    <file name="untitled-10023.gif" crc="4179665704" seo="true" ref="index"/>
+    <file name="untitled-10024.gif" crc="3853167648" seo="true" ref="index"/>
+    <file name="untitled-10025.gif" crc="219322574" seo="true" ref="index"/>
+    <file name="untitled-10026.gif" crc="406840671" seo="true" ref="index"/>
+    <file name="untitled-10027.gif" crc="61181359" seo="true" ref="index"/>
+    <file name="untitled-10028.gif" crc="28340626" seo="true" ref="index"/>
+    <file name="untitled-10029.gif" crc="514036575" seo="true" ref="index"/>
+    <file name="untitled-10030.gif" crc="4247832196" seo="true" ref="index"/>
+    <file name="untitled-10031.gif" crc="3912981057" seo="true" ref="index"/>
+    <file name="untitled-10032.gif" crc="238126521" seo="true" ref="index"/>
+    <file name="untitled-10033.gif" crc="83286553" seo="true" ref="index"/>
+    <file name="untitled-10034.gif" crc="4127547315" seo="true" ref="index"/>
+    <file name="untitled-10035.gif" crc="262675638" seo="true" ref="index"/>
+    <file name="untitled-10036.gif" crc="4029062878" seo="true" ref="index"/>
+    <file name="untitled-10037.gif" crc="4068623646" seo="true" ref="index"/>
+    <file name="untitled-10038.gif" crc="200539692" seo="true" ref="index"/>
+    <file name="untitled-10039.gif" crc="4004199772" seo="true" ref="index"/>
+    <file name="untitled-10040.gif" crc="3763355345" seo="true" ref="index"/>
+    <file name="untitled-10041.gif" crc="27637418" seo="true" ref="index"/>
+    <file name="untitled-10042.gif" crc="3962747567" seo="true" ref="index"/>
+    <file name="untitled-10043.gif" crc="69726408" seo="true" ref="index"/>
+    <file name="untitled-10044.gif" crc="235736575" seo="true" ref="index"/>
+    <file name="untitled-10045.gif" crc="164727820" seo="true" ref="index"/>
+    <file name="untitled-10046.gif" crc="4075387384" seo="true" ref="index"/>
+    <file name="untitled-10047.gif" crc="3790727100" seo="true" ref="index"/>
+    <file name="untitled-10048.gif" crc="4083778840" seo="true" ref="index"/>
+    <file name="untitled-10049.gif" crc="3899871175" seo="true" ref="index"/>
+    <file name="untitled-10050.gif" crc="4000183314" seo="true" ref="index"/>
+    <file name="untitled-10051.gif" crc="342776567" seo="true" ref="index"/>
+    <file name="untitled-10052.gif" crc="29487944" seo="true" ref="index"/>
+    <file name="untitled-10053.gif" crc="310160552" seo="true" ref="index"/>
+    <file name="untitled-10054.gif" crc="47711734" seo="true" ref="index"/>
+    <file name="untitled-10055.gif" crc="53064646" seo="true" ref="index"/>
+    <file name="untitled-10056.gif" crc="2954653" seo="true" ref="index"/>
+    <file name="untitled-10057.gif" crc="3907561359" seo="true" ref="index"/>
+    <file name="untitled-10058.gif" crc="224295478" seo="true" ref="index"/>
+    <file name="untitled-10059.gif" crc="495145427" seo="true" ref="index"/>
+    <file name="untitled-10060.gif" crc="4065783302" seo="true" ref="index"/>
+    <file name="untitled-10061.gif" crc="279550786" seo="true" ref="index"/>
+    <file name="untitled-10062.gif" crc="209333254" seo="true" ref="index"/>
+    <file name="untitled-10063.gif" crc="3988838295" seo="true" ref="index"/>
+    <file name="untitled-10064.gif" crc="454027869" seo="true" ref="index"/>
+    <file name="untitled-10065.gif" crc="3901691562" seo="true" ref="index"/>
+    <file name="untitled-10066.gif" crc="38819309" seo="true" ref="index"/>
+    <file name="untitled-10067.gif" crc="23709478" seo="true" ref="index"/>
+    <file name="untitled-10068.gif" crc="3896199656" seo="true" ref="index"/>
+    <file name="untitled-10069.gif" crc="3759082231" seo="true" ref="index"/>
+    <file name="untitled-10070.gif" crc="3981447695" seo="true" ref="index"/>
+    <file name="untitled-10071.gif" crc="3938626048" seo="true" ref="index"/>
+    <file name="untitled-10072.gif" crc="512527107" seo="true" ref="index"/>
+    <file name="untitled-10073.gif" crc="3759866689" seo="true" ref="index"/>
+    <file name="untitled-10074.gif" crc="409904739" seo="true" ref="index"/>
+    <file name="untitled-10075.gif" crc="4270803780" seo="true" ref="index"/>
+    <file name="untitled-10076.gif" crc="3825665330" seo="true" ref="index"/>
+    <file name="untitled-10077.gif" crc="45417046" seo="true" ref="index"/>
+    <file name="untitled-10078.gif" crc="288794882" seo="true" ref="index"/>
+    <file name="untitled-10079.gif" crc="4019011052" seo="true" ref="index"/>
+    <file name="untitled-10080.gif" crc="319617870" seo="true" ref="index"/>
+    <file name="untitled-10081.gif" crc="214866727" seo="true" ref="index"/>
+    <file name="untitled-10082.gif" crc="81732481" seo="true" ref="index"/>
+    <file name="untitled-10083.gif" crc="348696236" seo="true" ref="index"/>
+    <file name="untitled-10084.gif" crc="3783274956" seo="true" ref="index"/>
+    <file name="untitled-10085.gif" crc="345870882" seo="true" ref="index"/>
+    <file name="untitled-10086.gif" crc="3963930738" seo="true" ref="index"/>
+    <file name="untitled-10087.gif" crc="3779777312" seo="true" ref="index"/>
+    <file name="untitled-10088.gif" crc="331352008" seo="true" ref="index"/>
+    <file name="untitled-10089.gif" crc="4170415848" seo="true" ref="index"/>
+    <file name="untitled-10090.gif" crc="120762670" seo="true" ref="index"/>
+    <file name="untitled-10091.gif" crc="274999794" seo="true" ref="index"/>
+    <file name="untitled-10092.gif" crc="3828105621" seo="true" ref="index"/>
+    <file name="untitled-10093.gif" crc="3807400904" seo="true" ref="index"/>
+    <file name="untitled-10094.gif" crc="4069481309" seo="true" ref="index"/>
+    <file name="untitled-10095.gif" crc="4231667349" seo="true" ref="index"/>
+    <file name="untitled-10096.gif" crc="331838144" seo="true" ref="index"/>
+    <file name="untitled-10097.gif" crc="4246116768" seo="true" ref="index"/>
+    <file name="untitled-10098.gif" crc="77168719" seo="true" ref="index"/>
+    <file name="untitled-10099.gif" crc="520420137" seo="true" ref="index"/>
+    <file name="untitled-10100.gif" crc="252679146" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="about.png" crc="226297706" seo="true" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="services.png" crc="515990571" seo="true" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="directory.png" crc="481039300" seo="true" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="contact.png" crc="419037783" seo="true" ref="index:about:services:groundfloor:contact:firstfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:directory:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="u1420-4.png" crc="4050619313" ref="about"/>
+    <file name="u1252.png" crc="182220998" ref="services"/>
+    <file name="u1252-r.png" crc="340475971" ref="services"/>
+    <file name="u1252-m.png" crc="340475971" ref="services"/>
+    <file name="u1252-a.png" crc="3980173548" ref="services"/>
+    <file name="u1234.png" crc="167457915" ref="services"/>
+    <file name="u1234-r.png" crc="4215838075" ref="services"/>
+    <file name="u1234-m.png" crc="4215838075" ref="services"/>
+    <file name="u1234-a.png" crc="4205380843" ref="services"/>
+    <file name="u1238.png" crc="3785963689" ref="services"/>
+    <file name="u1238-r.png" crc="37207719" ref="services"/>
+    <file name="u1238-m.png" crc="37207719" ref="services"/>
+    <file name="u1238-a.png" crc="133978630" ref="services"/>
+    <file name="u1248.png" crc="4054956398" ref="services"/>
+    <file name="u1248-r.png" crc="4284603511" ref="services"/>
+    <file name="u1248-m.png" crc="4284603511" ref="services"/>
+    <file name="u1248-a.png" crc="228835483" ref="services"/>
+    <file name="u1242.png" crc="77533150" ref="services"/>
+    <file name="u1242-r.png" crc="90261910" ref="services"/>
+    <file name="u1242-m.png" crc="90261910" ref="services"/>
+    <file name="u1242-a.png" crc="4108106767" ref="services"/>
+    <file name="u1260.png" crc="50212972" ref="services"/>
+    <file name="u1260-r.png" crc="417495149" ref="services"/>
+    <file name="u1260-m.png" crc="417495149" ref="services"/>
+    <file name="u1260-a.png" crc="220745624" ref="services"/>
+    <file name="u1254.png" crc="4211053524" ref="services"/>
+    <file name="u1254-r.png" crc="163007035" ref="services"/>
+    <file name="u1254-m.png" crc="163007035" ref="services"/>
+    <file name="u1254-a.png" crc="3890727534" ref="services"/>
+    <file name="u13515.png" crc="419761387" ref="groundfloor"/>
+    <file name="u13515-r.png" crc="4280174016" ref="groundfloor"/>
+    <file name="jlnbwh.png" crc="3898325988" seo="true" ref="groundfloor:dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:farmasi"/>
+    <file name="u5409-6.png" crc="401503380" ref="groundfloor"/>
+    <file name="u13525.png" crc="236824553" ref="groundfloor"/>
+    <file name="u13525-r.png" crc="4175536884" ref="groundfloor"/>
+    <file name="u13535.png" crc="4266722893" ref="groundfloor"/>
+    <file name="u13535-r.png" crc="4208799449" ref="groundfloor"/>
+    <file name="u13545.png" crc="4125408285" ref="groundfloor"/>
+    <file name="u13545-r.png" crc="299175031" ref="groundfloor"/>
+    <file name="u13555.png" crc="445971645" ref="groundfloor"/>
+    <file name="u13555-r.png" crc="4206754607" ref="groundfloor"/>
+    <file name="store-u13565.png" crc="4161082775" ref="groundfloor"/>
+    <file name="toilet1-u13575.png" crc="247970574" ref="groundfloor"/>
+    <file name="toilet1-u13669.png" crc="247970574" ref="groundfloor"/>
+    <file name="toilet1-u13676.png" crc="247970574" ref="groundfloor"/>
+    <file name="u13585.png" crc="402385292" ref="groundfloor"/>
+    <file name="u13585-r.png" crc="47970553" ref="groundfloor"/>
+    <file name="u13595.png" crc="284825422" ref="groundfloor"/>
+    <file name="u13595-r.png" crc="4097508924" ref="groundfloor"/>
+    <file name="u13632.png" crc="284825422" ref="groundfloor"/>
+    <file name="u13632-r.png" crc="4097508924" ref="groundfloor"/>
+    <file name="u13612.png" crc="4177970925" ref="groundfloor"/>
+    <file name="u13612-r.png" crc="115835300" ref="groundfloor"/>
+    <file name="u13622.png" crc="3947309350" ref="groundfloor"/>
+    <file name="u13622-r.png" crc="318113091" ref="groundfloor"/>
+    <file name="counter-u13639.png" crc="3950614859" ref="groundfloor"/>
+    <file name="u13656.png" crc="4094680098" ref="groundfloor"/>
+    <file name="u13656-r.png" crc="4058694066" ref="groundfloor"/>
+    <file name="pantry-u15578.png" crc="120198394" ref="firstfloor"/>
+    <file name="u15193.png" crc="3810956875" ref="firstfloor"/>
+    <file name="u15193-r.png" crc="183243831" ref="firstfloor"/>
+    <file name="u15203.png" crc="3992351495" ref="firstfloor"/>
+    <file name="u15203-r.png" crc="4188306978" ref="firstfloor"/>
+    <file name="tgga.png" crc="439374739" seo="true" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran"/>
+    <file name="pantry-u15376.png" crc="120198394" ref="firstfloor"/>
+    <file name="u15359.png" crc="166322684" ref="firstfloor"/>
+    <file name="u15359-r.png" crc="353283094" ref="firstfloor"/>
+    <file name="ats.png" crc="209148912" seo="true" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran"/>
+    <file name="lif.png" crc="394634009" seo="true" ref="firstfloor:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran"/>
+    <file name="u15210.png" crc="3790534202" ref="firstfloor"/>
+    <file name="u15210-r.png" crc="302955994" ref="firstfloor"/>
+    <file name="u15227.png" crc="3790534202" ref="firstfloor"/>
+    <file name="u15227-r.png" crc="302955994" ref="firstfloor"/>
+    <file name="store-u15234.png" crc="4256194214" ref="firstfloor"/>
+    <file name="u15261.png" crc="494240669" ref="firstfloor"/>
+    <file name="u15261-r.png" crc="452681178" ref="firstfloor"/>
+    <file name="u15251.png" crc="494240669" ref="firstfloor"/>
+    <file name="u15251-r.png" crc="452681178" ref="firstfloor"/>
+    <file name="u15268.png" crc="3862061297" ref="firstfloor"/>
+    <file name="u15268-r.png" crc="45287826" ref="firstfloor"/>
+    <file name="toilet1-u15278.png" crc="311447683" ref="firstfloor"/>
+    <file name="u15285.png" crc="4166592351" ref="firstfloor"/>
+    <file name="u15285-r.png" crc="203105576" ref="firstfloor"/>
+    <file name="u15302.png" crc="215735052" ref="firstfloor"/>
+    <file name="u15302-r.png" crc="215735052" ref="firstfloor"/>
+    <file name="u15312.png" crc="288662267" ref="firstfloor"/>
+    <file name="u15312-r.png" crc="4192521730" ref="firstfloor"/>
+    <file name="surau-u15322.png" crc="504453925" ref="firstfloor"/>
+    <file name="u15332.png" crc="1186820" ref="firstfloor"/>
+    <file name="u15332-r.png" crc="4103719513" ref="firstfloor"/>
+    <file name="u15342.png" crc="333742849" ref="firstfloor"/>
+    <file name="u15342-r.png" crc="4098442947" ref="firstfloor"/>
+    <file name="u15349.png" crc="120872162" ref="firstfloor"/>
+    <file name="u15349-r.png" crc="3987940730" ref="firstfloor"/>
+    <file name="keyboard-left-arrow-button.png" crc="4229303089" seo="true" ref="dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:jasabudi:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="u13937.png" crc="419761387" ref="dressingroom"/>
+    <file name="u13937-r.png" crc="4280174016" ref="dressingroom"/>
+    <file name="u13936-6.png" crc="401503380" ref="dressingroom"/>
+    <file name="u13939.png" crc="236824553" ref="dressingroom"/>
+    <file name="u13939-r.png" crc="4175536884" ref="dressingroom"/>
+    <file name="u13941.png" crc="4266722893" ref="dressingroom"/>
+    <file name="u13941-r.png" crc="4208799449" ref="dressingroom"/>
+    <file name="u13943.png" crc="4125408285" ref="dressingroom"/>
+    <file name="u13943-r.png" crc="299175031" ref="dressingroom"/>
+    <file name="u13945.png" crc="445971645" ref="dressingroom"/>
+    <file name="u13945-r.png" crc="4206754607" ref="dressingroom"/>
+    <file name="store-u13947.png" crc="4161082775" ref="dressingroom"/>
+    <file name="toilet1-u13949.png" crc="247970574" ref="dressingroom"/>
+    <file name="toilet1-u13951.png" crc="247970574" ref="dressingroom"/>
+    <file name="toilet1-u13953.png" crc="247970574" ref="dressingroom"/>
+    <file name="u13955.png" crc="402385292" ref="dressingroom"/>
+    <file name="u13955-r.png" crc="47970553" ref="dressingroom"/>
+    <file name="u13957.png" crc="284825422" ref="dressingroom"/>
+    <file name="u13957-r.png" crc="4097508924" ref="dressingroom"/>
+    <file name="u13959.png" crc="284825422" ref="dressingroom"/>
+    <file name="u13959-r.png" crc="4097508924" ref="dressingroom"/>
+    <file name="u13961.png" crc="4177970925" ref="dressingroom"/>
+    <file name="u13961-r.png" crc="115835300" ref="dressingroom"/>
+    <file name="u13963.png" crc="3947309350" ref="dressingroom"/>
+    <file name="u13963-r.png" crc="318113091" ref="dressingroom"/>
+    <file name="counter-u13965.png" crc="3950614859" ref="dressingroom"/>
+    <file name="u13967.png" crc="4094680098" ref="dressingroom"/>
+    <file name="u13967-r.png" crc="4058694066" ref="dressingroom"/>
+    <file name="animated-arrow-image-0276.gif" crc="2871750" seo="true" ref="dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:ibnusina:lab:bilikaura,bilikberhntimerokok,kaunseling:fisio:bedah:rawatan:ro:pejpentdbiran:farmasi"/>
+    <file name="animated-arrow-image-0133.gif" crc="413146192" seo="true" ref="dressingroom:xray:bilikmsyuarat:vip:klinikal:bilikrawatan:ward:bilikketuanurse:bilikdr:jasabudi:ibnusina:bilikaura,bilikberhntimerokok,kaunseling:bedah:rawatan:ro:dialysis:dental:pejpentdbiran:farmasi"/>
+    <file name="location-u17814.png" crc="227466407" ref="dressingroom"/>
+    <file name="u15062.png" crc="419761387" ref="xray"/>
+    <file name="u15062-r.png" crc="4280174016" ref="xray"/>
+    <file name="u15061-6.png" crc="401503380" ref="xray"/>
+    <file name="u15064.png" crc="236824553" ref="xray"/>
+    <file name="u15064-r.png" crc="4175536884" ref="xray"/>
+    <file name="u15066.png" crc="4266722893" ref="xray"/>
+    <file name="u15066-r.png" crc="4208799449" ref="xray"/>
+    <file name="u15068.png" crc="4125408285" ref="xray"/>
+    <file name="u15068-r.png" crc="299175031" ref="xray"/>
+    <file name="u15070.png" crc="445971645" ref="xray"/>
+    <file name="u15070-r.png" crc="4206754607" ref="xray"/>
+    <file name="store-u15072.png" crc="4161082775" ref="xray"/>
+    <file name="toilet1-u15074.png" crc="247970574" ref="xray"/>
+    <file name="toilet1-u15076.png" crc="247970574" ref="xray"/>
+    <file name="toilet1-u15078.png" crc="247970574" ref="xray"/>
+    <file name="u15080.png" crc="402385292" ref="xray"/>
+    <file name="u15080-r.png" crc="47970553" ref="xray"/>
+    <file name="u15082.png" crc="284825422" ref="xray"/>
+    <file name="u15082-r.png" crc="4097508924" ref="xray"/>
+    <file name="u15084.png" crc="284825422" ref="xray"/>
+    <file name="u15084-r.png" crc="4097508924" ref="xray"/>
+    <file name="u15086.png" crc="4177970925" ref="xray"/>
+    <file name="u15086-r.png" crc="115835300" ref="xray"/>
+    <file name="u15088.png" crc="3947309350" ref="xray"/>
+    <file name="u15088-r.png" crc="318113091" ref="xray"/>
+    <file name="counter-u15090.png" crc="3950614859" ref="xray"/>
+    <file name="u15092.png" crc="4094680098" ref="xray"/>
+    <file name="u15092-r.png" crc="4058694066" ref="xray"/>
+    <file name="location-u10219.png" crc="227466407" ref="xray"/>
+    <file name="u14937.png" crc="419761387" ref="bilikmsyuarat"/>
+    <file name="u14937-r.png" crc="4280174016" ref="bilikmsyuarat"/>
+    <file name="u14936-6.png" crc="401503380" ref="bilikmsyuarat"/>
+    <file name="u14939.png" crc="236824553" ref="bilikmsyuarat"/>
+    <file name="u14939-r.png" crc="4175536884" ref="bilikmsyuarat"/>
+    <file name="u14941.png" crc="4266722893" ref="bilikmsyuarat"/>
+    <file name="u14941-r.png" crc="4208799449" ref="bilikmsyuarat"/>
+    <file name="u14943.png" crc="4125408285" ref="bilikmsyuarat"/>
+    <file name="u14943-r.png" crc="299175031" ref="bilikmsyuarat"/>
+    <file name="u14945.png" crc="445971645" ref="bilikmsyuarat"/>
+    <file name="u14945-r.png" crc="4206754607" ref="bilikmsyuarat"/>
+    <file name="store-u14947.png" crc="4161082775" ref="bilikmsyuarat"/>
+    <file name="toilet1-u14949.png" crc="247970574" ref="bilikmsyuarat"/>
+    <file name="toilet1-u14951.png" crc="247970574" ref="bilikmsyuarat"/>
+    <file name="toilet1-u14953.png" crc="247970574" ref="bilikmsyuarat"/>
+    <file name="u14955.png" crc="402385292" ref="bilikmsyuarat"/>
+    <file name="u14955-r.png" crc="47970553" ref="bilikmsyuarat"/>
+    <file name="u14957.png" crc="284825422" ref="bilikmsyuarat"/>
+    <file name="u14957-r.png" crc="4097508924" ref="bilikmsyuarat"/>
+    <file name="u14959.png" crc="284825422" ref="bilikmsyuarat"/>
+    <file name="u14959-r.png" crc="4097508924" ref="bilikmsyuarat"/>
+    <file name="u14961.png" crc="4177970925" ref="bilikmsyuarat"/>
+    <file name="u14961-r.png" crc="115835300" ref="bilikmsyuarat"/>
+    <file name="u14963.png" crc="3947309350" ref="bilikmsyuarat"/>
+    <file name="u14963-r.png" crc="318113091" ref="bilikmsyuarat"/>
+    <file name="counter-u14965.png" crc="3950614859" ref="bilikmsyuarat"/>
+    <file name="u14967.png" crc="4094680098" ref="bilikmsyuarat"/>
+    <file name="u14967-r.png" crc="4058694066" ref="bilikmsyuarat"/>
+    <file name="location-u10072.png" crc="227466407" ref="bilikmsyuarat"/>
+    <file name="u14812.png" crc="419761387" ref="vip"/>
+    <file name="u14812-r.png" crc="4280174016" ref="vip"/>
+    <file name="u14811-6.png" crc="401503380" ref="vip"/>
+    <file name="u14814.png" crc="236824553" ref="vip"/>
+    <file name="u14814-r.png" crc="4175536884" ref="vip"/>
+    <file name="u14816.png" crc="4266722893" ref="vip"/>
+    <file name="u14816-r.png" crc="4208799449" ref="vip"/>
+    <file name="u14818.png" crc="4125408285" ref="vip"/>
+    <file name="u14818-r.png" crc="299175031" ref="vip"/>
+    <file name="u14820.png" crc="445971645" ref="vip"/>
+    <file name="u14820-r.png" crc="4206754607" ref="vip"/>
+    <file name="store-u14822.png" crc="4161082775" ref="vip"/>
+    <file name="toilet1-u14824.png" crc="247970574" ref="vip"/>
+    <file name="toilet1-u14826.png" crc="247970574" ref="vip"/>
+    <file name="toilet1-u14828.png" crc="247970574" ref="vip"/>
+    <file name="u14830.png" crc="402385292" ref="vip"/>
+    <file name="u14830-r.png" crc="47970553" ref="vip"/>
+    <file name="u14832.png" crc="284825422" ref="vip"/>
+    <file name="u14832-r.png" crc="4097508924" ref="vip"/>
+    <file name="u14834.png" crc="284825422" ref="vip"/>
+    <file name="u14834-r.png" crc="4097508924" ref="vip"/>
+    <file name="u14836.png" crc="4177970925" ref="vip"/>
+    <file name="u14836-r.png" crc="115835300" ref="vip"/>
+    <file name="u14838.png" crc="3947309350" ref="vip"/>
+    <file name="u14838-r.png" crc="318113091" ref="vip"/>
+    <file name="counter-u14840.png" crc="3950614859" ref="vip"/>
+    <file name="u14842.png" crc="4094680098" ref="vip"/>
+    <file name="u14842-r.png" crc="4058694066" ref="vip"/>
+    <file name="location-u9810.png" crc="227466407" ref="vip"/>
+    <file name="u14687.png" crc="419761387" ref="klinikal"/>
+    <file name="u14687-r.png" crc="4280174016" ref="klinikal"/>
+    <file name="u14686-6.png" crc="401503380" ref="klinikal"/>
+    <file name="u14689.png" crc="236824553" ref="klinikal"/>
+    <file name="u14689-r.png" crc="4175536884" ref="klinikal"/>
+    <file name="u14691.png" crc="4266722893" ref="klinikal"/>
+    <file name="u14691-r.png" crc="4208799449" ref="klinikal"/>
+    <file name="u14693.png" crc="4125408285" ref="klinikal"/>
+    <file name="u14693-r.png" crc="299175031" ref="klinikal"/>
+    <file name="u14695.png" crc="445971645" ref="klinikal"/>
+    <file name="u14695-r.png" crc="4206754607" ref="klinikal"/>
+    <file name="store-u14697.png" crc="4161082775" ref="klinikal"/>
+    <file name="toilet1-u14699.png" crc="247970574" ref="klinikal"/>
+    <file name="toilet1-u14701.png" crc="247970574" ref="klinikal"/>
+    <file name="toilet1-u14703.png" crc="247970574" ref="klinikal"/>
+    <file name="u14705.png" crc="402385292" ref="klinikal"/>
+    <file name="u14705-r.png" crc="47970553" ref="klinikal"/>
+    <file name="u14707.png" crc="284825422" ref="klinikal"/>
+    <file name="u14707-r.png" crc="4097508924" ref="klinikal"/>
+    <file name="u14709.png" crc="284825422" ref="klinikal"/>
+    <file name="u14709-r.png" crc="4097508924" ref="klinikal"/>
+    <file name="u14711.png" crc="4177970925" ref="klinikal"/>
+    <file name="u14711-r.png" crc="115835300" ref="klinikal"/>
+    <file name="u14713.png" crc="3947309350" ref="klinikal"/>
+    <file name="u14713-r.png" crc="318113091" ref="klinikal"/>
+    <file name="counter-u14715.png" crc="3950614859" ref="klinikal"/>
+    <file name="u14717.png" crc="4094680098" ref="klinikal"/>
+    <file name="u14717-r.png" crc="4058694066" ref="klinikal"/>
+    <file name="location-u9628.png" crc="227466407" ref="klinikal"/>
+    <file name="u14562.png" crc="419761387" ref="bilikrawatan"/>
+    <file name="u14562-r.png" crc="4280174016" ref="bilikrawatan"/>
+    <file name="u14561-6.png" crc="401503380" ref="bilikrawatan"/>
+    <file name="u14564.png" crc="236824553" ref="bilikrawatan"/>
+    <file name="u14564-r.png" crc="4175536884" ref="bilikrawatan"/>
+    <file name="u14566.png" crc="4266722893" ref="bilikrawatan"/>
+    <file name="u14566-r.png" crc="4208799449" ref="bilikrawatan"/>
+    <file name="u14568.png" crc="4125408285" ref="bilikrawatan"/>
+    <file name="u14568-r.png" crc="299175031" ref="bilikrawatan"/>
+    <file name="u14570.png" crc="445971645" ref="bilikrawatan"/>
+    <file name="u14570-r.png" crc="4206754607" ref="bilikrawatan"/>
+    <file name="store-u14572.png" crc="4161082775" ref="bilikrawatan"/>
+    <file name="toilet1-u14574.png" crc="247970574" ref="bilikrawatan"/>
+    <file name="toilet1-u14576.png" crc="247970574" ref="bilikrawatan"/>
+    <file name="toilet1-u14578.png" crc="247970574" ref="bilikrawatan"/>
+    <file name="u14580.png" crc="402385292" ref="bilikrawatan"/>
+    <file name="u14580-r.png" crc="47970553" ref="bilikrawatan"/>
+    <file name="u14582.png" crc="284825422" ref="bilikrawatan"/>
+    <file name="u14582-r.png" crc="4097508924" ref="bilikrawatan"/>
+    <file name="u14584.png" crc="284825422" ref="bilikrawatan"/>
+    <file name="u14584-r.png" crc="4097508924" ref="bilikrawatan"/>
+    <file name="u14586.png" crc="4177970925" ref="bilikrawatan"/>
+    <file name="u14586-r.png" crc="115835300" ref="bilikrawatan"/>
+    <file name="u14588.png" crc="3947309350" ref="bilikrawatan"/>
+    <file name="u14588-r.png" crc="318113091" ref="bilikrawatan"/>
+    <file name="counter-u14590.png" crc="3950614859" ref="bilikrawatan"/>
+    <file name="u14592.png" crc="4094680098" ref="bilikrawatan"/>
+    <file name="u14592-r.png" crc="4058694066" ref="bilikrawatan"/>
+    <file name="location-u9533.png" crc="227466407" ref="bilikrawatan"/>
+    <file name="u14437.png" crc="419761387" ref="ward"/>
+    <file name="u14437-r.png" crc="4280174016" ref="ward"/>
+    <file name="u14436-6.png" crc="401503380" ref="ward"/>
+    <file name="u14439.png" crc="236824553" ref="ward"/>
+    <file name="u14439-r.png" crc="4175536884" ref="ward"/>
+    <file name="u14441.png" crc="4266722893" ref="ward"/>
+    <file name="u14441-r.png" crc="4208799449" ref="ward"/>
+    <file name="u14443.png" crc="4125408285" ref="ward"/>
+    <file name="u14443-r.png" crc="299175031" ref="ward"/>
+    <file name="u14445.png" crc="445971645" ref="ward"/>
+    <file name="u14445-r.png" crc="4206754607" ref="ward"/>
+    <file name="store-u14447.png" crc="4161082775" ref="ward"/>
+    <file name="toilet1-u14449.png" crc="247970574" ref="ward"/>
+    <file name="toilet1-u14451.png" crc="247970574" ref="ward"/>
+    <file name="toilet1-u14453.png" crc="247970574" ref="ward"/>
+    <file name="u14455.png" crc="402385292" ref="ward"/>
+    <file name="u14455-r.png" crc="47970553" ref="ward"/>
+    <file name="u14457.png" crc="284825422" ref="ward"/>
+    <file name="u14457-r.png" crc="4097508924" ref="ward"/>
+    <file name="u14459.png" crc="284825422" ref="ward"/>
+    <file name="u14459-r.png" crc="4097508924" ref="ward"/>
+    <file name="u14461.png" crc="4177970925" ref="ward"/>
+    <file name="u14461-r.png" crc="115835300" ref="ward"/>
+    <file name="u14463.png" crc="3947309350" ref="ward"/>
+    <file name="u14463-r.png" crc="318113091" ref="ward"/>
+    <file name="counter-u14465.png" crc="3950614859" ref="ward"/>
+    <file name="u14467.png" crc="4094680098" ref="ward"/>
+    <file name="u14467-r.png" crc="4058694066" ref="ward"/>
+    <file name="location-u9417.png" crc="227466407" ref="ward"/>
+    <file name="u14312.png" crc="419761387" ref="bilikketuanurse"/>
+    <file name="u14312-r.png" crc="4280174016" ref="bilikketuanurse"/>
+    <file name="u14311-6.png" crc="401503380" ref="bilikketuanurse"/>
+    <file name="u14314.png" crc="236824553" ref="bilikketuanurse"/>
+    <file name="u14314-r.png" crc="4175536884" ref="bilikketuanurse"/>
+    <file name="u14316.png" crc="4266722893" ref="bilikketuanurse"/>
+    <file name="u14316-r.png" crc="4208799449" ref="bilikketuanurse"/>
+    <file name="u14318.png" crc="4125408285" ref="bilikketuanurse"/>
+    <file name="u14318-r.png" crc="299175031" ref="bilikketuanurse"/>
+    <file name="u14320.png" crc="445971645" ref="bilikketuanurse"/>
+    <file name="u14320-r.png" crc="4206754607" ref="bilikketuanurse"/>
+    <file name="store-u14322.png" crc="4161082775" ref="bilikketuanurse"/>
+    <file name="toilet1-u14324.png" crc="247970574" ref="bilikketuanurse"/>
+    <file name="toilet1-u14326.png" crc="247970574" ref="bilikketuanurse"/>
+    <file name="toilet1-u14328.png" crc="247970574" ref="bilikketuanurse"/>
+    <file name="u14330.png" crc="402385292" ref="bilikketuanurse"/>
+    <file name="u14330-r.png" crc="47970553" ref="bilikketuanurse"/>
+    <file name="u14332.png" crc="284825422" ref="bilikketuanurse"/>
+    <file name="u14332-r.png" crc="4097508924" ref="bilikketuanurse"/>
+    <file name="u14334.png" crc="284825422" ref="bilikketuanurse"/>
+    <file name="u14334-r.png" crc="4097508924" ref="bilikketuanurse"/>
+    <file name="u14336.png" crc="4177970925" ref="bilikketuanurse"/>
+    <file name="u14336-r.png" crc="115835300" ref="bilikketuanurse"/>
+    <file name="u14338.png" crc="3947309350" ref="bilikketuanurse"/>
+    <file name="u14338-r.png" crc="318113091" ref="bilikketuanurse"/>
+    <file name="counter-u14340.png" crc="3950614859" ref="bilikketuanurse"/>
+    <file name="u14342.png" crc="4094680098" ref="bilikketuanurse"/>
+    <file name="u14342-r.png" crc="4058694066" ref="bilikketuanurse"/>
+    <file name="location-u9277.png" crc="227466407" ref="bilikketuanurse"/>
+    <file name="u14062.png" crc="419761387" ref="bilikdr"/>
+    <file name="u14062-r.png" crc="4280174016" ref="bilikdr"/>
+    <file name="location-u9236.png" crc="227466407" ref="bilikdr"/>
+    <file name="location-u9246.png" crc="227466407" ref="bilikdr"/>
+    <file name="u14061-6.png" crc="401503380" ref="bilikdr"/>
+    <file name="u14064.png" crc="236824553" ref="bilikdr"/>
+    <file name="u14064-r.png" crc="4175536884" ref="bilikdr"/>
+    <file name="u14066.png" crc="4266722893" ref="bilikdr"/>
+    <file name="u14066-r.png" crc="4208799449" ref="bilikdr"/>
+    <file name="u14068.png" crc="4125408285" ref="bilikdr"/>
+    <file name="u14068-r.png" crc="299175031" ref="bilikdr"/>
+    <file name="u14070.png" crc="445971645" ref="bilikdr"/>
+    <file name="u14070-r.png" crc="4206754607" ref="bilikdr"/>
+    <file name="store-u14072.png" crc="4161082775" ref="bilikdr"/>
+    <file name="toilet1-u14074.png" crc="247970574" ref="bilikdr"/>
+    <file name="toilet1-u14076.png" crc="247970574" ref="bilikdr"/>
+    <file name="toilet1-u14078.png" crc="247970574" ref="bilikdr"/>
+    <file name="u14080.png" crc="402385292" ref="bilikdr"/>
+    <file name="u14080-r.png" crc="47970553" ref="bilikdr"/>
+    <file name="u14082.png" crc="284825422" ref="bilikdr"/>
+    <file name="u14082-r.png" crc="4097508924" ref="bilikdr"/>
+    <file name="u14084.png" crc="284825422" ref="bilikdr"/>
+    <file name="u14084-r.png" crc="4097508924" ref="bilikdr"/>
+    <file name="u14086.png" crc="4177970925" ref="bilikdr"/>
+    <file name="u14086-r.png" crc="115835300" ref="bilikdr"/>
+    <file name="u14088.png" crc="3947309350" ref="bilikdr"/>
+    <file name="u14088-r.png" crc="318113091" ref="bilikdr"/>
+    <file name="counter-u14090.png" crc="3950614859" ref="bilikdr"/>
+    <file name="u14092.png" crc="4094680098" ref="bilikdr"/>
+    <file name="u14092-r.png" crc="4058694066" ref="bilikdr"/>
+    <file name="u9031-4.png" crc="452650704" ref="directory"/>
+    <file name="u9037-4.png" crc="4236453341" ref="directory"/>
+    <file name="pantry-u17961.png" crc="120198394" ref="jasabudi"/>
+    <file name="u17977.png" crc="3810956875" ref="jasabudi"/>
+    <file name="u17977-r.png" crc="183243831" ref="jasabudi"/>
+    <file name="u18001.png" crc="3992351495" ref="jasabudi"/>
+    <file name="u18001-r.png" crc="4188306978" ref="jasabudi"/>
+    <file name="pantry-u17973.png" crc="120198394" ref="jasabudi"/>
+    <file name="u17982.png" crc="3790534202" ref="jasabudi"/>
+    <file name="u17982-r.png" crc="302955994" ref="jasabudi"/>
+    <file name="u17980.png" crc="3790534202" ref="jasabudi"/>
+    <file name="u17980-r.png" crc="302955994" ref="jasabudi"/>
+    <file name="store-u17959.png" crc="4256194214" ref="jasabudi"/>
+    <file name="u17985.png" crc="494240669" ref="jasabudi"/>
+    <file name="u17985-r.png" crc="452681178" ref="jasabudi"/>
+    <file name="u17987.png" crc="494240669" ref="jasabudi"/>
+    <file name="u17987-r.png" crc="452681178" ref="jasabudi"/>
+    <file name="u17997.png" crc="3862061297" ref="jasabudi"/>
+    <file name="u17997-r.png" crc="45287826" ref="jasabudi"/>
+    <file name="toilet1-u17975.png" crc="311447683" ref="jasabudi"/>
+    <file name="u17995.png" crc="4166592351" ref="jasabudi"/>
+    <file name="u17995-r.png" crc="203105576" ref="jasabudi"/>
+    <file name="u17971.png" crc="215735052" ref="jasabudi"/>
+    <file name="u17971-r.png" crc="4139800234" ref="jasabudi"/>
+    <file name="u17999.png" crc="288662267" ref="jasabudi"/>
+    <file name="u17999-r.png" crc="4192521730" ref="jasabudi"/>
+    <file name="surau-u17989.png" crc="504453925" ref="jasabudi"/>
+    <file name="u17951.png" crc="1186820" ref="jasabudi"/>
+    <file name="u17951-r.png" crc="4103719513" ref="jasabudi"/>
+    <file name="u17955.png" crc="333742849" ref="jasabudi"/>
+    <file name="u17955-r.png" crc="4098442947" ref="jasabudi"/>
+    <file name="u17953.png" crc="120872162" ref="jasabudi"/>
+    <file name="u17953-r.png" crc="3987940730" ref="jasabudi"/>
+    <file name="u18003.png" crc="166322684" ref="jasabudi"/>
+    <file name="u18003-r.png" crc="353283094" ref="jasabudi"/>
+    <file name="location-u13403.png" crc="479275286" ref="jasabudi"/>
+    <file name="pantry-u17599.png" crc="120198394" ref="ibnusina"/>
+    <file name="u17615.png" crc="3810956875" ref="ibnusina"/>
+    <file name="u17615-r.png" crc="183243831" ref="ibnusina"/>
+    <file name="u17639.png" crc="3992351495" ref="ibnusina"/>
+    <file name="u17639-r.png" crc="4188306978" ref="ibnusina"/>
+    <file name="pantry-u17611.png" crc="120198394" ref="ibnusina"/>
+    <file name="u17641.png" crc="166322684" ref="ibnusina"/>
+    <file name="u17641-r.png" crc="353283094" ref="ibnusina"/>
+    <file name="u17620.png" crc="3790534202" ref="ibnusina"/>
+    <file name="u17620-r.png" crc="302955994" ref="ibnusina"/>
+    <file name="u17618.png" crc="3790534202" ref="ibnusina"/>
+    <file name="u17618-r.png" crc="302955994" ref="ibnusina"/>
+    <file name="store-u17597.png" crc="4256194214" ref="ibnusina"/>
+    <file name="u17623.png" crc="494240669" ref="ibnusina"/>
+    <file name="u17623-r.png" crc="452681178" ref="ibnusina"/>
+    <file name="u17625.png" crc="494240669" ref="ibnusina"/>
+    <file name="u17625-r.png" crc="452681178" ref="ibnusina"/>
+    <file name="u17635.png" crc="3862061297" ref="ibnusina"/>
+    <file name="u17635-r.png" crc="45287826" ref="ibnusina"/>
+    <file name="toilet1-u17613.png" crc="311447683" ref="ibnusina"/>
+    <file name="u17633.png" crc="4166592351" ref="ibnusina"/>
+    <file name="u17633-r.png" crc="203105576" ref="ibnusina"/>
+    <file name="u17609.png" crc="215735052" ref="ibnusina"/>
+    <file name="u17609-r.png" crc="4139800234" ref="ibnusina"/>
+    <file name="u17637.png" crc="288662267" ref="ibnusina"/>
+    <file name="u17637-r.png" crc="4192521730" ref="ibnusina"/>
+    <file name="surau-u17627.png" crc="504453925" ref="ibnusina"/>
+    <file name="u17589.png" crc="1186820" ref="ibnusina"/>
+    <file name="u17589-r.png" crc="4103719513" ref="ibnusina"/>
+    <file name="u17593.png" crc="333742849" ref="ibnusina"/>
+    <file name="u17593-r.png" crc="4098442947" ref="ibnusina"/>
+    <file name="u17591.png" crc="120872162" ref="ibnusina"/>
+    <file name="u17591-r.png" crc="3987940730" ref="ibnusina"/>
+    <file name="location-u13179.png" crc="479275286" ref="ibnusina"/>
+    <file name="pantry-u17398.png" crc="120198394" ref="lab"/>
+    <file name="u17414.png" crc="3810956875" ref="lab"/>
+    <file name="u17414-r.png" crc="183243831" ref="lab"/>
+    <file name="u17438.png" crc="3992351495" ref="lab"/>
+    <file name="u17438-r.png" crc="4188306978" ref="lab"/>
+    <file name="pantry-u17410.png" crc="120198394" ref="lab"/>
+    <file name="u17440.png" crc="166322684" ref="lab"/>
+    <file name="u17440-r.png" crc="353283094" ref="lab"/>
+    <file name="u17419.png" crc="3790534202" ref="lab"/>
+    <file name="u17419-r.png" crc="302955994" ref="lab"/>
+    <file name="u17417.png" crc="3790534202" ref="lab"/>
+    <file name="u17417-r.png" crc="302955994" ref="lab"/>
+    <file name="store-u17396.png" crc="4256194214" ref="lab"/>
+    <file name="u17422.png" crc="494240669" ref="lab"/>
+    <file name="u17422-r.png" crc="452681178" ref="lab"/>
+    <file name="u17424.png" crc="494240669" ref="lab"/>
+    <file name="u17424-r.png" crc="452681178" ref="lab"/>
+    <file name="u17434.png" crc="3862061297" ref="lab"/>
+    <file name="u17434-r.png" crc="45287826" ref="lab"/>
+    <file name="toilet1-u17412.png" crc="311447683" ref="lab"/>
+    <file name="u17432.png" crc="4166592351" ref="lab"/>
+    <file name="u17432-r.png" crc="203105576" ref="lab"/>
+    <file name="u17408.png" crc="215735052" ref="lab"/>
+    <file name="u17408-r.png" crc="4139800234" ref="lab"/>
+    <file name="u17436.png" crc="288662267" ref="lab"/>
+    <file name="u17436-r.png" crc="4192521730" ref="lab"/>
+    <file name="surau-u17426.png" crc="504453925" ref="lab"/>
+    <file name="u17388.png" crc="1186820" ref="lab"/>
+    <file name="u17388-r.png" crc="4103719513" ref="lab"/>
+    <file name="u17392.png" crc="333742849" ref="lab"/>
+    <file name="u17392-r.png" crc="4098442947" ref="lab"/>
+    <file name="u17390.png" crc="120872162" ref="lab"/>
+    <file name="u17390-r.png" crc="3987940730" ref="lab"/>
+    <file name="location-u12619.png" crc="479275286" ref="lab"/>
+    <file name="pantry-u17197.png" crc="120198394" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17213.png" crc="3810956875" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17213-r.png" crc="183243831" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17237.png" crc="3992351495" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17237-r.png" crc="4188306978" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="pantry-u17209.png" crc="120198394" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17239.png" crc="166322684" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17239-r.png" crc="353283094" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17218.png" crc="3790534202" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17218-r.png" crc="302955994" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17216.png" crc="3790534202" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17216-r.png" crc="302955994" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="store-u17195.png" crc="4256194214" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17221.png" crc="494240669" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17221-r.png" crc="452681178" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17223.png" crc="494240669" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17223-r.png" crc="452681178" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17233.png" crc="3862061297" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17233-r.png" crc="45287826" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="toilet1-u17211.png" crc="311447683" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17231.png" crc="4166592351" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17231-r.png" crc="203105576" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17207.png" crc="215735052" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17207-r.png" crc="4139800234" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17235.png" crc="288662267" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17235-r.png" crc="4192521730" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="surau-u17225.png" crc="504453925" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17187.png" crc="1186820" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17187-r.png" crc="4103719513" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17191.png" crc="333742849" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17191-r.png" crc="4098442947" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17189.png" crc="120872162" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u17189-r.png" crc="3987940730" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="location-u12136.png" crc="479275286" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="pantry-u16996.png" crc="120198394" ref="fisio"/>
+    <file name="u17012.png" crc="3810956875" ref="fisio"/>
+    <file name="u17012-r.png" crc="183243831" ref="fisio"/>
+    <file name="u17036.png" crc="3992351495" ref="fisio"/>
+    <file name="u17036-r.png" crc="4188306978" ref="fisio"/>
+    <file name="pantry-u17008.png" crc="120198394" ref="fisio"/>
+    <file name="u17038.png" crc="166322684" ref="fisio"/>
+    <file name="u17038-r.png" crc="353283094" ref="fisio"/>
+    <file name="u17017.png" crc="3790534202" ref="fisio"/>
+    <file name="u17017-r.png" crc="302955994" ref="fisio"/>
+    <file name="u17015.png" crc="3790534202" ref="fisio"/>
+    <file name="u17015-r.png" crc="302955994" ref="fisio"/>
+    <file name="store-u16994.png" crc="4256194214" ref="fisio"/>
+    <file name="u17020.png" crc="494240669" ref="fisio"/>
+    <file name="u17020-r.png" crc="452681178" ref="fisio"/>
+    <file name="u17022.png" crc="494240669" ref="fisio"/>
+    <file name="u17022-r.png" crc="452681178" ref="fisio"/>
+    <file name="u17032.png" crc="3862061297" ref="fisio"/>
+    <file name="u17032-r.png" crc="45287826" ref="fisio"/>
+    <file name="toilet1-u17010.png" crc="311447683" ref="fisio"/>
+    <file name="u17030.png" crc="4166592351" ref="fisio"/>
+    <file name="u17030-r.png" crc="203105576" ref="fisio"/>
+    <file name="u17006.png" crc="215735052" ref="fisio"/>
+    <file name="u17006-r.png" crc="4139800234" ref="fisio"/>
+    <file name="u17034.png" crc="288662267" ref="fisio"/>
+    <file name="u17034-r.png" crc="4192521730" ref="fisio"/>
+    <file name="surau-u17024.png" crc="504453925" ref="fisio"/>
+    <file name="u16986.png" crc="1186820" ref="fisio"/>
+    <file name="u16986-r.png" crc="4103719513" ref="fisio"/>
+    <file name="u16990.png" crc="333742849" ref="fisio"/>
+    <file name="u16990-r.png" crc="4098442947" ref="fisio"/>
+    <file name="u16988.png" crc="120872162" ref="fisio"/>
+    <file name="u16988-r.png" crc="3987940730" ref="fisio"/>
+    <file name="location-u11810.png" crc="479275286" ref="fisio"/>
+    <file name="pantry-u16795.png" crc="120198394" ref="bedah"/>
+    <file name="u16811.png" crc="3810956875" ref="bedah"/>
+    <file name="u16811-r.png" crc="183243831" ref="bedah"/>
+    <file name="u16835.png" crc="3992351495" ref="bedah"/>
+    <file name="u16835-r.png" crc="4188306978" ref="bedah"/>
+    <file name="pantry-u16807.png" crc="120198394" ref="bedah"/>
+    <file name="u16837.png" crc="166322684" ref="bedah"/>
+    <file name="u16837-r.png" crc="353283094" ref="bedah"/>
+    <file name="u16816.png" crc="3790534202" ref="bedah"/>
+    <file name="u16816-r.png" crc="302955994" ref="bedah"/>
+    <file name="u16814.png" crc="3790534202" ref="bedah"/>
+    <file name="u16814-r.png" crc="302955994" ref="bedah"/>
+    <file name="store-u16793.png" crc="4256194214" ref="bedah"/>
+    <file name="u16819.png" crc="494240669" ref="bedah"/>
+    <file name="u16819-r.png" crc="452681178" ref="bedah"/>
+    <file name="u16821.png" crc="494240669" ref="bedah"/>
+    <file name="u16821-r.png" crc="452681178" ref="bedah"/>
+    <file name="u16831.png" crc="3862061297" ref="bedah"/>
+    <file name="u16831-r.png" crc="45287826" ref="bedah"/>
+    <file name="toilet1-u16809.png" crc="311447683" ref="bedah"/>
+    <file name="u16829.png" crc="4166592351" ref="bedah"/>
+    <file name="u16829-r.png" crc="203105576" ref="bedah"/>
+    <file name="u16805.png" crc="215735052" ref="bedah"/>
+    <file name="u16805-r.png" crc="4139800234" ref="bedah"/>
+    <file name="u16833.png" crc="288662267" ref="bedah"/>
+    <file name="u16833-r.png" crc="4192521730" ref="bedah"/>
+    <file name="surau-u16823.png" crc="504453925" ref="bedah"/>
+    <file name="u16785.png" crc="1186820" ref="bedah"/>
+    <file name="u16785-r.png" crc="4103719513" ref="bedah"/>
+    <file name="u16789.png" crc="333742849" ref="bedah"/>
+    <file name="u16789-r.png" crc="4098442947" ref="bedah"/>
+    <file name="u16787.png" crc="120872162" ref="bedah"/>
+    <file name="u16787-r.png" crc="3987940730" ref="bedah"/>
+    <file name="location-u11600.png" crc="479275286" ref="bedah"/>
+    <file name="pantry-u16482.png" crc="120198394" ref="rawatan"/>
+    <file name="u16498.png" crc="3810956875" ref="rawatan"/>
+    <file name="u16498-r.png" crc="183243831" ref="rawatan"/>
+    <file name="u16522.png" crc="3992351495" ref="rawatan"/>
+    <file name="u16522-r.png" crc="4188306978" ref="rawatan"/>
+    <file name="pantry-u16494.png" crc="120198394" ref="rawatan"/>
+    <file name="u16524.png" crc="166322684" ref="rawatan"/>
+    <file name="u16524-r.png" crc="353283094" ref="rawatan"/>
+    <file name="u16503.png" crc="3790534202" ref="rawatan"/>
+    <file name="u16503-r.png" crc="302955994" ref="rawatan"/>
+    <file name="u16501.png" crc="3790534202" ref="rawatan"/>
+    <file name="u16501-r.png" crc="302955994" ref="rawatan"/>
+    <file name="store-u16480.png" crc="4256194214" ref="rawatan"/>
+    <file name="u16506.png" crc="494240669" ref="rawatan"/>
+    <file name="u16506-r.png" crc="452681178" ref="rawatan"/>
+    <file name="u16508.png" crc="494240669" ref="rawatan"/>
+    <file name="u16508-r.png" crc="452681178" ref="rawatan"/>
+    <file name="u16518.png" crc="3862061297" ref="rawatan"/>
+    <file name="u16518-r.png" crc="45287826" ref="rawatan"/>
+    <file name="toilet1-u16496.png" crc="311447683" ref="rawatan"/>
+    <file name="u16516.png" crc="4166592351" ref="rawatan"/>
+    <file name="u16516-r.png" crc="203105576" ref="rawatan"/>
+    <file name="u16492.png" crc="215735052" ref="rawatan"/>
+    <file name="u16492-r.png" crc="4139800234" ref="rawatan"/>
+    <file name="u16520.png" crc="288662267" ref="rawatan"/>
+    <file name="u16520-r.png" crc="4192521730" ref="rawatan"/>
+    <file name="surau-u16510.png" crc="504453925" ref="rawatan"/>
+    <file name="u16472.png" crc="1186820" ref="rawatan"/>
+    <file name="u16472-r.png" crc="4103719513" ref="rawatan"/>
+    <file name="u16476.png" crc="333742849" ref="rawatan"/>
+    <file name="u16476-r.png" crc="4098442947" ref="rawatan"/>
+    <file name="u16474.png" crc="120872162" ref="rawatan"/>
+    <file name="u16474-r.png" crc="3987940730" ref="rawatan"/>
+    <file name="location-u11509.png" crc="479275286" ref="rawatan"/>
+    <file name="pantry-u16211.png" crc="120198394" ref="ro"/>
+    <file name="u16227.png" crc="3810956875" ref="ro"/>
+    <file name="u16227-r.png" crc="183243831" ref="ro"/>
+    <file name="u16251.png" crc="3992351495" ref="ro"/>
+    <file name="u16251-r.png" crc="4188306978" ref="ro"/>
+    <file name="pantry-u16223.png" crc="120198394" ref="ro"/>
+    <file name="u16253.png" crc="166322684" ref="ro"/>
+    <file name="u16253-r.png" crc="353283094" ref="ro"/>
+    <file name="u16232.png" crc="3790534202" ref="ro"/>
+    <file name="u16232-r.png" crc="302955994" ref="ro"/>
+    <file name="u16230.png" crc="3790534202" ref="ro"/>
+    <file name="u16230-r.png" crc="302955994" ref="ro"/>
+    <file name="store-u16209.png" crc="4256194214" ref="ro"/>
+    <file name="u16235.png" crc="494240669" ref="ro"/>
+    <file name="u16235-r.png" crc="452681178" ref="ro"/>
+    <file name="u16237.png" crc="494240669" ref="ro"/>
+    <file name="u16237-r.png" crc="452681178" ref="ro"/>
+    <file name="u16247.png" crc="3862061297" ref="ro"/>
+    <file name="u16247-r.png" crc="45287826" ref="ro"/>
+    <file name="toilet1-u16225.png" crc="311447683" ref="ro"/>
+    <file name="u16245.png" crc="4166592351" ref="ro"/>
+    <file name="u16245-r.png" crc="203105576" ref="ro"/>
+    <file name="u16221.png" crc="215735052" ref="ro"/>
+    <file name="u16221-r.png" crc="4139800234" ref="ro"/>
+    <file name="u16249.png" crc="288662267" ref="ro"/>
+    <file name="u16249-r.png" crc="4192521730" ref="ro"/>
+    <file name="surau-u16239.png" crc="504453925" ref="ro"/>
+    <file name="u16201.png" crc="1186820" ref="ro"/>
+    <file name="u16201-r.png" crc="4103719513" ref="ro"/>
+    <file name="u16205.png" crc="333742849" ref="ro"/>
+    <file name="u16205-r.png" crc="4098442947" ref="ro"/>
+    <file name="u16203.png" crc="120872162" ref="ro"/>
+    <file name="u16203-r.png" crc="3987940730" ref="ro"/>
+    <file name="location-u11341.png" crc="479275286" ref="ro"/>
+    <file name="pantry-u16010.png" crc="120198394" ref="dialysis"/>
+    <file name="u16026.png" crc="3810956875" ref="dialysis"/>
+    <file name="u16026-r.png" crc="183243831" ref="dialysis"/>
+    <file name="u16050.png" crc="3992351495" ref="dialysis"/>
+    <file name="u16050-r.png" crc="4188306978" ref="dialysis"/>
+    <file name="pantry-u16022.png" crc="120198394" ref="dialysis"/>
+    <file name="u16052.png" crc="166322684" ref="dialysis"/>
+    <file name="u16052-r.png" crc="353283094" ref="dialysis"/>
+    <file name="u16031.png" crc="3790534202" ref="dialysis"/>
+    <file name="u16031-r.png" crc="302955994" ref="dialysis"/>
+    <file name="u16029.png" crc="3790534202" ref="dialysis"/>
+    <file name="u16029-r.png" crc="302955994" ref="dialysis"/>
+    <file name="store-u16008.png" crc="4256194214" ref="dialysis"/>
+    <file name="u16034.png" crc="494240669" ref="dialysis"/>
+    <file name="u16034-r.png" crc="452681178" ref="dialysis"/>
+    <file name="u16036.png" crc="494240669" ref="dialysis"/>
+    <file name="u16036-r.png" crc="452681178" ref="dialysis"/>
+    <file name="u16046.png" crc="3862061297" ref="dialysis"/>
+    <file name="u16046-r.png" crc="45287826" ref="dialysis"/>
+    <file name="toilet1-u16024.png" crc="311447683" ref="dialysis"/>
+    <file name="u16044.png" crc="4166592351" ref="dialysis"/>
+    <file name="u16044-r.png" crc="203105576" ref="dialysis"/>
+    <file name="u16020.png" crc="215735052" ref="dialysis"/>
+    <file name="u16020-r.png" crc="4139800234" ref="dialysis"/>
+    <file name="u16048.png" crc="288662267" ref="dialysis"/>
+    <file name="u16048-r.png" crc="4192521730" ref="dialysis"/>
+    <file name="surau-u16038.png" crc="504453925" ref="dialysis"/>
+    <file name="u16000.png" crc="1186820" ref="dialysis"/>
+    <file name="u16000-r.png" crc="4103719513" ref="dialysis"/>
+    <file name="u16004.png" crc="333742849" ref="dialysis"/>
+    <file name="u16004-r.png" crc="4098442947" ref="dialysis"/>
+    <file name="u16002.png" crc="120872162" ref="dialysis"/>
+    <file name="u16002-r.png" crc="3987940730" ref="dialysis"/>
+    <file name="location-u11124.png" crc="479275286" ref="dialysis"/>
+    <file name="location-u11219.png" crc="479275286" ref="dialysis"/>
+    <file name="pantry-u15809.png" crc="120198394" ref="dental"/>
+    <file name="u15825.png" crc="3810956875" ref="dental"/>
+    <file name="u15825-r.png" crc="183243831" ref="dental"/>
+    <file name="u15849.png" crc="3992351495" ref="dental"/>
+    <file name="u15849-r.png" crc="4188306978" ref="dental"/>
+    <file name="pantry-u15821.png" crc="120198394" ref="dental"/>
+    <file name="u15851.png" crc="166322684" ref="dental"/>
+    <file name="u15851-r.png" crc="353283094" ref="dental"/>
+    <file name="u15830.png" crc="3790534202" ref="dental"/>
+    <file name="u15830-r.png" crc="302955994" ref="dental"/>
+    <file name="u15828.png" crc="3790534202" ref="dental"/>
+    <file name="u15828-r.png" crc="302955994" ref="dental"/>
+    <file name="store-u15807.png" crc="4256194214" ref="dental"/>
+    <file name="u15833.png" crc="494240669" ref="dental"/>
+    <file name="u15833-r.png" crc="452681178" ref="dental"/>
+    <file name="u15835.png" crc="494240669" ref="dental"/>
+    <file name="u15835-r.png" crc="452681178" ref="dental"/>
+    <file name="u15845.png" crc="3862061297" ref="dental"/>
+    <file name="u15845-r.png" crc="45287826" ref="dental"/>
+    <file name="toilet1-u15823.png" crc="311447683" ref="dental"/>
+    <file name="u15843.png" crc="4166592351" ref="dental"/>
+    <file name="u15843-r.png" crc="203105576" ref="dental"/>
+    <file name="u15819.png" crc="215735052" ref="dental"/>
+    <file name="u15819-r.png" crc="4139800234" ref="dental"/>
+    <file name="u15847.png" crc="288662267" ref="dental"/>
+    <file name="u15847-r.png" crc="4192521730" ref="dental"/>
+    <file name="surau-u15837.png" crc="504453925" ref="dental"/>
+    <file name="u15799.png" crc="1186820" ref="dental"/>
+    <file name="u15799-r.png" crc="4103719513" ref="dental"/>
+    <file name="u15803.png" crc="333742849" ref="dental"/>
+    <file name="u15803-r.png" crc="4098442947" ref="dental"/>
+    <file name="u15801.png" crc="120872162" ref="dental"/>
+    <file name="u15801-r.png" crc="3987940730" ref="dental"/>
+    <file name="location-u11019.png" crc="479275286" ref="dental"/>
+    <file name="location-u11086.png" crc="479275286" ref="dental"/>
+    <file name="pantry-u15608.png" crc="120198394" ref="pejpentdbiran"/>
+    <file name="u15624.png" crc="3810956875" ref="pejpentdbiran"/>
+    <file name="u15624-r.png" crc="183243831" ref="pejpentdbiran"/>
+    <file name="u15648.png" crc="3992351495" ref="pejpentdbiran"/>
+    <file name="u15648-r.png" crc="4188306978" ref="pejpentdbiran"/>
+    <file name="pantry-u15620.png" crc="120198394" ref="pejpentdbiran"/>
+    <file name="u15650.png" crc="166322684" ref="pejpentdbiran"/>
+    <file name="u15650-r.png" crc="353283094" ref="pejpentdbiran"/>
+    <file name="u15629.png" crc="3790534202" ref="pejpentdbiran"/>
+    <file name="u15629-r.png" crc="302955994" ref="pejpentdbiran"/>
+    <file name="u15627.png" crc="3790534202" ref="pejpentdbiran"/>
+    <file name="u15627-r.png" crc="302955994" ref="pejpentdbiran"/>
+    <file name="store-u15606.png" crc="4256194214" ref="pejpentdbiran"/>
+    <file name="u15632.png" crc="494240669" ref="pejpentdbiran"/>
+    <file name="u15632-r.png" crc="452681178" ref="pejpentdbiran"/>
+    <file name="u15634.png" crc="494240669" ref="pejpentdbiran"/>
+    <file name="u15634-r.png" crc="452681178" ref="pejpentdbiran"/>
+    <file name="u15644.png" crc="3862061297" ref="pejpentdbiran"/>
+    <file name="u15644-r.png" crc="45287826" ref="pejpentdbiran"/>
+    <file name="toilet1-u15622.png" crc="311447683" ref="pejpentdbiran"/>
+    <file name="u15642.png" crc="4166592351" ref="pejpentdbiran"/>
+    <file name="u15642-r.png" crc="203105576" ref="pejpentdbiran"/>
+    <file name="u15618.png" crc="215735052" ref="pejpentdbiran"/>
+    <file name="u15618-r.png" crc="4139800234" ref="pejpentdbiran"/>
+    <file name="u15646.png" crc="288662267" ref="pejpentdbiran"/>
+    <file name="u15646-r.png" crc="4192521730" ref="pejpentdbiran"/>
+    <file name="surau-u15636.png" crc="504453925" ref="pejpentdbiran"/>
+    <file name="u15598.png" crc="1186820" ref="pejpentdbiran"/>
+    <file name="u15598-r.png" crc="4103719513" ref="pejpentdbiran"/>
+    <file name="u15602.png" crc="333742849" ref="pejpentdbiran"/>
+    <file name="u15602-r.png" crc="4098442947" ref="pejpentdbiran"/>
+    <file name="u15600.png" crc="120872162" ref="pejpentdbiran"/>
+    <file name="u15600-r.png" crc="3987940730" ref="pejpentdbiran"/>
+    <file name="location-u10875.png" crc="479275286" ref="pejpentdbiran"/>
+    <file name="u18192.png" crc="419761387" ref="farmasi"/>
+    <file name="u18192-r.png" crc="4280174016" ref="farmasi"/>
+    <file name="u18191-6.png" crc="401503380" ref="farmasi"/>
+    <file name="u18194.png" crc="236824553" ref="farmasi"/>
+    <file name="u18194-r.png" crc="4175536884" ref="farmasi"/>
+    <file name="u18196.png" crc="4266722893" ref="farmasi"/>
+    <file name="u18196-r.png" crc="4208799449" ref="farmasi"/>
+    <file name="u18198.png" crc="4125408285" ref="farmasi"/>
+    <file name="u18198-r.png" crc="299175031" ref="farmasi"/>
+    <file name="u18200.png" crc="445971645" ref="farmasi"/>
+    <file name="u18200-r.png" crc="4206754607" ref="farmasi"/>
+    <file name="store-u18202.png" crc="4161082775" ref="farmasi"/>
+    <file name="toilet1-u18204.png" crc="247970574" ref="farmasi"/>
+    <file name="toilet1-u18206.png" crc="247970574" ref="farmasi"/>
+    <file name="toilet1-u18208.png" crc="247970574" ref="farmasi"/>
+    <file name="u18210.png" crc="402385292" ref="farmasi"/>
+    <file name="u18210-r.png" crc="47970553" ref="farmasi"/>
+    <file name="u18212.png" crc="284825422" ref="farmasi"/>
+    <file name="u18212-r.png" crc="4097508924" ref="farmasi"/>
+    <file name="u18214.png" crc="284825422" ref="farmasi"/>
+    <file name="u18214-r.png" crc="4097508924" ref="farmasi"/>
+    <file name="u18216.png" crc="4177970925" ref="farmasi"/>
+    <file name="u18216-r.png" crc="115835300" ref="farmasi"/>
+    <file name="u18218.png" crc="3947309350" ref="farmasi"/>
+    <file name="u18218-r.png" crc="318113091" ref="farmasi"/>
+    <file name="counter-u18220.png" crc="3950614859" ref="farmasi"/>
+    <file name="u18222.png" crc="4094680098" ref="farmasi"/>
+    <file name="u18222-r.png" crc="4058694066" ref="farmasi"/>
+    <file name="location-u18347.png" crc="227466407" ref="farmasi"/>
+    <file name="u22143-4.png" crc="3914741966" ref="groundfloor"/>
+    <file name="u22146-6.png" crc="447226627" ref="groundfloor"/>
+    <file name="u22149-6.png" crc="3961791996" ref="groundfloor"/>
+    <file name="u22152-6.png" crc="4140075708" ref="groundfloor"/>
+    <file name="u22158-6.png" crc="530291854" ref="groundfloor"/>
+    <file name="u22161-4.png" crc="4058378736" ref="groundfloor"/>
+    <file name="u22164-6.png" crc="384437278" ref="groundfloor"/>
+    <file name="u22167-4.png" crc="101431287" ref="groundfloor"/>
+    <file name="u22170-6.png" crc="3849458051" ref="groundfloor"/>
+    <file name="u22176-8.png" crc="283885983" ref="groundfloor"/>
+    <file name="u22173-6.png" crc="3982843491" ref="groundfloor"/>
+    <file name="u21777.png" crc="110363872" ref="firstfloor"/>
+    <file name="u21777-r.png" crc="455344400" ref="firstfloor"/>
+    <file name="u21787.png" crc="110363872" ref="firstfloor"/>
+    <file name="u21787-r.png" crc="455344400" ref="firstfloor"/>
+    <file name="u22191-6.png" crc="3870472050" ref="firstfloor"/>
+    <file name="u22194-6.png" crc="446512416" ref="firstfloor"/>
+    <file name="u22197-4.png" crc="53421484" ref="firstfloor"/>
+    <file name="u22200-4.png" crc="53421484" ref="firstfloor"/>
+    <file name="u22203-4.png" crc="376300981" ref="firstfloor"/>
+    <file name="u22206-4.png" crc="403681148" ref="firstfloor"/>
+    <file name="u22215-4.png" crc="3879607780" ref="firstfloor"/>
+    <file name="u22218-4.png" crc="4136090024" ref="firstfloor"/>
+    <file name="u22221-4.png" crc="4265089225" ref="firstfloor"/>
+    <file name="u22224-6.png" crc="3902387322" ref="firstfloor"/>
+    <file name="u22227-4.png" crc="4212724472" ref="firstfloor"/>
+    <file name="u22230-4.png" crc="270503363" ref="firstfloor"/>
+    <file name="u22209-4.png" crc="236709053" ref="firstfloor"/>
+    <file name="conference1-u22126-a.png" crc="110363872" ref="jasabudi"/>
+    <file name="u22128.png" crc="110363872" ref="jasabudi"/>
+    <file name="u22128-r.png" crc="455344400" ref="jasabudi"/>
+    <file name="u22112.png" crc="110363872" ref="ibnusina"/>
+    <file name="u22112-r.png" crc="455344400" ref="ibnusina"/>
+    <file name="conference1-u22114-a.png" crc="110363872" ref="ibnusina"/>
+    <file name="u22098.png" crc="110363872" ref="lab"/>
+    <file name="u22098-r.png" crc="455344400" ref="lab"/>
+    <file name="u22100.png" crc="110363872" ref="lab"/>
+    <file name="u22100-r.png" crc="455344400" ref="lab"/>
+    <file name="u22084.png" crc="110363872" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u22084-r.png" crc="455344400" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u22086.png" crc="110363872" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u22086-r.png" crc="455344400" ref="bilikaura,bilikberhntimerokok,kaunseling"/>
+    <file name="u22070.png" crc="110363872" ref="fisio"/>
+    <file name="u22070-r.png" crc="455344400" ref="fisio"/>
+    <file name="u22072.png" crc="110363872" ref="fisio"/>
+    <file name="u22072-r.png" crc="455344400" ref="fisio"/>
+    <file name="u22056.png" crc="110363872" ref="bedah"/>
+    <file name="u22056-r.png" crc="455344400" ref="bedah"/>
+    <file name="u22058.png" crc="110363872" ref="bedah"/>
+    <file name="u22058-r.png" crc="455344400" ref="bedah"/>
+    <file name="u22028.png" crc="110363872" ref="rawatan"/>
+    <file name="u22028-r.png" crc="455344400" ref="rawatan"/>
+    <file name="u22030.png" crc="110363872" ref="rawatan"/>
+    <file name="u22030-r.png" crc="455344400" ref="rawatan"/>
+    <file name="u22014.png" crc="110363872" ref="ro"/>
+    <file name="u22014-r.png" crc="455344400" ref="ro"/>
+    <file name="u22016.png" crc="110363872" ref="ro"/>
+    <file name="u22016-r.png" crc="455344400" ref="ro"/>
+    <file name="u22000.png" crc="110363872" ref="dialysis"/>
+    <file name="u22000-r.png" crc="455344400" ref="dialysis"/>
+    <file name="u22002.png" crc="110363872" ref="dialysis"/>
+    <file name="u22002-r.png" crc="455344400" ref="dialysis"/>
+    <file name="u21972.png" crc="110363872" ref="dental"/>
+    <file name="u21972-r.png" crc="455344400" ref="dental"/>
+    <file name="u21974.png" crc="110363872" ref="dental"/>
+    <file name="u21974-r.png" crc="455344400" ref="dental"/>
+    <file name="u21958.png" crc="110363872" ref="pejpentdbiran"/>
+    <file name="u21958-r.png" crc="455344400" ref="pejpentdbiran"/>
+    <file name="u21960.png" crc="110363872" ref="pejpentdbiran"/>
+    <file name="u21960-r.png" crc="455344400" ref="pejpentdbiran"/>
+  </folder>
+  <file name="index.html" crc="506992870" seo="true" mt="1495518887392" redirect="true"/>
+  <file name="about.html" crc="4076749434" seo="true" mt="1495463979290" redirect="true"/>
+  <file name="services.html" crc="422205370" seo="true" mt="1495465388964" redirect="true"/>
+  <file name="groundfloor.html" crc="220489784" seo="true" mt="1495520826277" redirect="true"/>
+  <file name="contact.html" crc="4179627422" seo="true" mt="1495520868308" redirect="true"/>
+  <file name="firstfloor.html" crc="35113816" seo="true" mt="1495520706063" redirect="true"/>
+  <file name="dressingroom.html" crc="3793851852" seo="true" mt="1495465230141" redirect="true"/>
+  <file name="xray.html" crc="4287245210" seo="true" mt="1495463979230" redirect="true"/>
+  <file name="bilikmsyuarat.html" crc="319760596" seo="true" mt="1495463979235" redirect="true"/>
+  <file name="vip.html" crc="263223132" seo="true" mt="1495463979239" redirect="true"/>
+  <file name="klinikal.html" crc="446377090" seo="true" mt="1495463979244" redirect="true"/>
+  <file name="bilikrawatan.html" crc="4026888627" seo="true" mt="1495463979248" redirect="true"/>
+  <file name="ward.html" crc="4104261490" seo="true" mt="1495463979253" redirect="true"/>
+  <file name="bilikketuanurse.html" crc="3913695677" seo="true" mt="1495463979258" redirect="true"/>
+  <file name="bilikdr.html" crc="440853654" seo="true" mt="1495465044517" redirect="true"/>
+  <file name="directory.html" crc="3917498777" seo="true" mt="1495463979281" redirect="true"/>
+  <file name="jasabudi.html" crc="4138055387" seo="true" mt="1495519542074" redirect="true"/>
+  <file name="ibnusina.html" crc="4070147204" seo="true" mt="1495519507815" redirect="true"/>
+  <file name="lab.html" crc="3929863314" seo="true" mt="1495519450634" redirect="true"/>
+  <file name="bilikaura,bilikberhntimerokok,kaunseling.html" crc="422596032" seo="true" mt="1495519428371" redirect="true"/>
+  <file name="fisio.html" crc="4070969869" seo="true" mt="1495519558515" redirect="true"/>
+  <file name="bedah.html" crc="315963662" seo="true" mt="1495519580437" redirect="true"/>
+  <file name="rawatan.html" crc="140690627" seo="true" mt="1495519597164" redirect="true"/>
+  <file name="ro.html" crc="4020741867" seo="true" mt="1495519628830" redirect="true"/>
+  <file name="dialysis.html" crc="312947442" seo="true" mt="1495519645554" redirect="true"/>
+  <file name="dental.html" crc="3894805685" seo="true" mt="1495519662395" redirect="true"/>
+  <file name="pejpentdbiran.html" crc="3974650126" seo="true" mt="1495519678212" redirect="true"/>
+  <file name="farmasi.html" crc="143378861" seo="true" mt="1495465144719" redirect="true"/>
+</manifest>
